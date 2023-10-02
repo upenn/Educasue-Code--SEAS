@@ -122,7 +122,7 @@ if __name__ == '__main__':
     reduce_config_file = "config/reduced_assignments.json"
     waived_config_file = "config/waived_assignments.json"
 
-    instance = 'LPS_Test'
+    instance = 'Test'
     canvas = Canvas(instance)
 
     # Configure the logging settings

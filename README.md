@@ -1,1 +1,1 @@
-# Educasue-Code--SEAS
+# Educause-Code--SEAS

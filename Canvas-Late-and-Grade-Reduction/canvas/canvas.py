@@ -4,8 +4,8 @@ from config.config_vars import CANVAS_TOKEN
 
 class Canvas:
     def __init__(self, instance):
-        server_url = {'LPS_Production': 'https://canvas.your_institution.edu', 
-                      'LPS_Test': 'https://your_institution.test.instructure.com'}
+        server_url = {'Production': 'https://canvas.your_institution.edu', 
+                      'Test': 'https://your_institution.test.instructure.com'}
 
         self.instance = instance
         self.server_url = server_url[instance]

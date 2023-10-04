@@ -34,7 +34,7 @@ def reduce_assignment(course_id, assignment_id):
 
         if data['grade'] is not None:
             grade, user_id = data['grade'], data['user_id']
-            if int(grade) > points_possible:
+            if int(round(float(grade))) > points_possible:
                 try:
                     canvas.post_assignment_grade(course_id, assignment_id, user_id, points_possible)
                     message = f'{user_id} has been trimmed to {points_possible}\n'

@@ -155,7 +155,7 @@ def access_files():
 
 if __name__ == '__main__':
     canvas = Canvas()
-    canvas.instance = 'LPS_Production'
+    canvas.instance = 'Production'
 
     gradescope.run_files()
     

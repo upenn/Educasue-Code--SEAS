@@ -1,6 +1,6 @@
 # Educause Poster Presentation 2023
 
-Co-presenting this with Alex Savoth and Drew Hopkins at the Educause conference in 2023. 
+Co-presenting this with Alex Savoth at the Educause conference in 2023. 
 
 Gradescope is integrated within Canvas but won't pass the submission time to Canvas. 
 
@@ -21,10 +21,10 @@ More info to come...
 
 # Credits: 
 
-Thank you, Ben Rosen, Courseware Developer at UPenn for helping me solve the error message when posting the student's submission time to Canvas-Gradescope assignment. 
+Thank you, Ben Rosen, Courseware Developer at UPenn for helping me solve the error message when posting the student's submission time to the Canvas-Gradescope assignment. 
 
 
-Thank you, Ira Winston at Penn Engineering online for helping me figure out how to use Browser Cookies to authenticate Gradescope.  
+Thank you, Ira Winston at Penn Engineering Online for helping me figure out how to use Browser Cookies to authenticate Gradescope.  
 
 
 

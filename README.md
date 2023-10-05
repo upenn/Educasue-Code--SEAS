@@ -1,6 +1,6 @@
 # Educause-Code--SEAS
 
-# Code Documentation
+# Gradescope Late Submission Documentation
 
 This repository contains a collection of Python scripts designed to interact with the Gradescope and Canvas platforms for managing student data, late submissions, and assignment grades. Below is an overview of each script and its functionality. The code was written by Edward Tao. 
 

@@ -1,4 +1,3 @@
-# Educause-Code--SEAS
 
 # Gradescope Late Submission Documentation
 

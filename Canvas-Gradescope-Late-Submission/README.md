@@ -1,19 +1,8 @@
-# Educause Poster Presentation 2023
 
 
 Gradescope is integrated within Canvas but won't pass the submission time to Canvas. For instructors who would like to use the Canvas Late Policy for Gradescope submissions, this project has demoed an automated way to script the late submission time from the Gradescope course, and then upload the late submission time to the Canvas on behalf of the student. 
 
-
-File_mapping: 
-
-
-This file contains all information related to Gradescope and Canvas. You only need to update the information in this file for the new semester. 
-
-
-
-More info to come...
-
-
+#please refer to the detailed documentation under Educasue-Code_SEAS folder. 
 
 
 # Credits: 
